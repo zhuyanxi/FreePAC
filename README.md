@@ -1,5 +1,5 @@
 
-## 梯子-科学上网 请访问：科学上网工具说明教程：
+## 梯子-科学上网 请访问：科学上网工具使用教程：
 
 **https://github.com/xiaoming2028/kexueshangwang/wiki**
 

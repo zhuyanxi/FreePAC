@@ -15,9 +15,9 @@
 .
 .
 ## ===VPS推荐===
-[**Hostwinds**](https://affiliates.hostwinds.com/hostwinds.php?id=7011&tid2=github&url=1216) 是一家美国主机商，成立于 2010 年，国内站长使用较多的是 Hostwinds 美国 VPS 主机产品。由于 [Hostwinds](https://affiliates.hostwinds.com/hostwinds.php?id=7011&tid2=github&url=1224) 美国 VPS 主机采用的是 SSD 硬盘，而且所有方案都有全球 CDN 加速功能，因而也备受用户青睐。 如今 Hostwinds 主机商提供的产品方案也非常丰富，包括虚拟主机、云主机、VPS主机以及独立主机等。目前 [Hostwinds](https://affiliates.hostwinds.com/hostwinds.php?id=7011&tid2=github&url=1216) 主要有达拉斯、西雅图 2 个数据中心，其中西雅图数据中心在国内访问速度最快。现在 [Hostwinds](https://affiliates.hostwinds.com/hostwinds.php?id=7011&tid2=github&url=1224) 提供免费更换IP了，没错，就是免费，免费，随意更换，可以一键解决 IP 被墙的问题了。
+[搬瓦工VPS（BandwagonHost）](https://bandwagonhost.com/aff.php?aff=54381) 隶属于美国IT7公司旗下的一款便宜年付KVM架构的VPS主机商家，从2013年开始推出低价VPS主机配置进入市场，确实受到广大网友的喜欢。2019年春节期间，[搬瓦工VPS](https://bandwagonhost.com/aff.php?aff=54381)主机商又提供包括香港PCCW、洛杉矶CN2 GIA、洛杉矶CN2 GIA-E，以及CN2 GT等12个数据中心，相比同类商家，[搬瓦工VPS](https://bwh88.net/aff.php?aff=54381&pid=57) 主机商的配置是比较高，线路还是比较好的。[搬瓦工VPS](https://bwh88.net/aff.php?aff=54381&pid=94) 商家支持支付宝、微信、PAYPAL、银联以及信用卡多种付款方式，这个也是很多国内用户选择的原因之一。
 
-限时活动，通过 [**本优惠链接**](https://affiliates.hostwinds.com/hostwinds.php?id=7011&tid2=github&url=1224) 进入Hostwinds 首页可以获得 6 折优惠，支持支付宝付款，欢迎购买注册。
+限时活动，通过 [**本优惠链接**](https://bandwagonhost.com/aff.php?aff=54381) 进入搬瓦工 首页可以获得 9 折优惠，支持支付宝付款，欢迎购买注册。
 
 .
 .

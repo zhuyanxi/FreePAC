@@ -15,9 +15,9 @@
 .
 .
 ## ===VPS推荐===
-[搬瓦工VPS（BandwagonHost）](https://bandwagonhost.com/aff.php?aff=54381) 隶属于美国IT7公司旗下的一款便宜年付KVM架构的VPS主机商家，从2013年开始推出低价VPS主机配置进入市场，确实受到广大网友的喜欢。2019年春节期间，[搬瓦工VPS](https://bandwagonhost.com/aff.php?aff=54381)主机商又提供包括香港PCCW、洛杉矶CN2 GIA、洛杉矶CN2 GIA-E，以及CN2 GT等12个数据中心，相比同类商家，[搬瓦工VPS](https://bwh88.net/aff.php?aff=54381&pid=57) 主机商的配置是比较高，线路还是比较好的。[搬瓦工VPS](https://bwh88.net/aff.php?aff=54381&pid=94) 商家支持支付宝、微信、PAYPAL、银联以及信用卡多种付款方式，这个也是很多国内用户选择的原因之一。
+[Hostinger](https://www.hostg.xyz/aff_c?offer_id=6&aff_id=18493&aff_sub=GitHub&url_id=39) 成立于 2004 年 11 月，在美国、亚洲和欧洲都设有机房，骨干网络采用1000Mbps宽带连接，这可以大幅提升你的访问速度。目前为 178 个国家和地区的超过 3000 万名客户提供服务。[Hostinger](https://www.hostg.xyz/aff_c?offer_id=6&aff_id=18493&aff_sub=GitHub&url_id=39) 的承诺是创建一个易于使用、稳定可靠，适合于开发人员的网络托管服务，并且以所有人都能接受的价格提供一流的功能和安全性，以及快速、优质的客户服务。[Hostinger](https://www.hostg.xyz/aff_c?offer_id=6&aff_id=18493&aff_sub=GitHub&url_id=39) 为了开拓中国市场，推出了 [中文版](https://www.hostg.xyz/aff_c?offer_id=6&aff_id=18493&aff_sub=GitHub&url_id=39) 网站，并且接受支付宝、微信、银联等本地付款方式。
 
-限时活动，通过 [**本优惠链接**](https://bandwagonhost.com/aff.php?aff=54381) 进入搬瓦工 首页可以获得 9 折优惠，支持支付宝付款，欢迎购买注册。
+通过 [**本优惠链接进入**](https://www.hostg.xyz/aff_c?offer_id=6&aff_id=18493&aff_sub=GitHub&url_id=39) Hostinger 首页可以获得 4.8 折优惠。
 
 .
 .

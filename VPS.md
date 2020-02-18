@@ -1,3 +1,11 @@
-[**Hostwinds**](https://affiliates.hostwinds.com/hostwinds.php?id=7011&tid2=github&url=1216) 是一家美国主机商，成立于 2010 年，国内站长使用较多的是 Hostwinds 美国 VPS 主机产品。由于 [Hostwinds](https://affiliates.hostwinds.com/hostwinds.php?id=7011&tid2=github&url=1224) 美国 VPS 主机采用的是 SSD 硬盘，而且所有方案都有全球 CDN 加速功能，因而也备受用户青睐。 如今 Hostwinds 主机商提供的产品方案也非常丰富，包括虚拟主机、云主机、VPS主机以及独立主机等。目前 [Hostwinds](https://affiliates.hostwinds.com/hostwinds.php?id=7011&tid2=github&url=1216) 主要有达拉斯、西雅图 2 个数据中心，其中西雅图数据中心在国内访问速度最快。现在 [Hostwinds](https://affiliates.hostwinds.com/hostwinds.php?id=7011&tid2=github&url=1224) 提供免费更换IP了，没错，就是免费，免费，随意更换，可以一键解决 IP 被墙的问题了。
+1、[Hostinger](https://www.hostg.xyz/aff_c?offer_id=6&aff_id=18493&aff_sub=GitHub&url_id=39) 成立于 2004 年 11 月，在美国、亚洲和欧洲都设有机房，骨干网络采用1000Mbps宽带连接，这可以大幅提升你的访问速度。目前为 178 个国家和地区的超过 3000 万名客户提供服务。[Hostinger](https://www.hostg.xyz/aff_c?offer_id=6&aff_id=18493&aff_sub=GitHub&url_id=39) 的承诺是创建一个易于使用、稳定可靠，适合于开发人员的网络托管服务，并且以所有人都能接受的价格提供一流的功能和安全性，以及快速、优质的客户服务。[Hostinger](https://www.hostg.xyz/aff_c?offer_id=6&aff_id=18493&aff_sub=GitHub&url_id=39) 为了开拓中国市场，推出了 [中文版](https://www.hostg.xyz/aff_c?offer_id=6&aff_id=18493&aff_sub=GitHub&url_id=39) 网站，并且接受支付宝、微信、银联等本地付款方式。
 
-限时活动，通过 [**本优惠链接**](https://affiliates.hostwinds.com/hostwinds.php?id=7011&tid2=github&url=1224) 进入Hostwinds 首页可以获得 6 折优惠，支持支付宝付款，欢迎购买注册。
+通过 [**本优惠链接进入**](https://www.hostg.xyz/aff_c?offer_id=6&aff_id=18493&aff_sub=GitHub&url_id=39) Hostinger 首页可以获得 4.8 折优惠。
+
+.
+.
+.
+
+2、Vultr VPS](https://www.vultr.com/?ref=8169051-4F) 主机是一家 2014 年成立的美国 VPS 主机服务商，它的母公司 Choopa 是已经有将近 20 年全球主机提供经验的老牌主机服务商。Vultr 至今才成立不到 4 年的时间，但是发展速度很快，目前拥有日本、美国、新加坡、英国、德国、法国、荷兰等全球 15 个数据中心。这个 VPS 服务商是按小时收费的，这意味着，架设一台 VPS 的成本几乎为零。假如你不想用美国的了，关机销毁然后再换到全球任何一个地区无压力。新手入门强烈推荐。
+
+限时活动，[**通过本链接注册并在30天内充值25美金可获赠50美金额度**](https://www.vultr.com/?ref=8169051-4F)，支持支付宝付款，欢迎购买注册。

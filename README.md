@@ -1,6 +1,6 @@
 ## 梯子-科学上网 请访问：科学上网工具使用教程：
 
-**[https://github.com/xiaoming2028/kexueshangwang/wiki](http://bit.ly/2XCPmTv)**
+**[https://github.com/xiaoming2028/kexueshangwang/wiki](https://bit.ly/2XCPmTv)**
 
 .
 .
